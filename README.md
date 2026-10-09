@@ -127,6 +127,10 @@ Django settings are configured for development. Production deployment will requi
 
 Weather and location data are provided by [Open-Meteo](https://open-meteo.com/).
 
+## Preview
+
+![WeatherWatch showing current weather and a seven-day forecast](docs/weatherwatch-preview.png)
+
 ## Author
 
 [Uday Bhimineni](https://github.com/udaybhimineni-dev)
